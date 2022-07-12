@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "js": "^0.1.0",
+    "node": "^18.5.0"
+  },
+  "name": "projet-5---1",
+  "version": "1.0.0",
+  "description": "Projet 5 Formation Dev openclassrooms",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gislhaine/Gislhaine-gislhaineprojetkanap.io.git"
+  },
+  "author": "Gislhaine GUEI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gislhaine/Gislhaine-gislhaineprojetkanap.io/issues"
+  },
+  "homepage": "https://github.com/Gislhaine/Gislhaine-gislhaineprojetkanap.io#readme"
+}
